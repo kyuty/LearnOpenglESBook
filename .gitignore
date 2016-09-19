@@ -1,0 +1,15 @@
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+.idea/
+/build.gradle
+/gradle
+/.gradle
+/gradle.properties 
+/gradlew*  
+/gradlew.bat  
+/LearnOpenglESBook.iml  
+/local.properties  
+/settings.gradle  
+/ssh.txt
